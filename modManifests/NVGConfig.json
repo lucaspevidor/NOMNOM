@@ -28,7 +28,13 @@
       "hash": "sha256:722b45cf8e5e8f47e95217900131828792ea8def962a41971aa5c24dafbb8c31",
       "gameVersion": "0.33",
       "version": "1.2.2",
-      "category": "Release"
+      "category": "Release",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
     }
   ],
   "downloadCount": 285
