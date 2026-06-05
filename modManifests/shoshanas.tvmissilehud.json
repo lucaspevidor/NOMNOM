@@ -20,6 +20,15 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "shoshanas.tvmissilehud_v1.6.7.zip",
+      "version": "1.6.7",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/NotAnomie/NOMNOM-shoshanas-tvmissilehud/releases/download/v1.6.7/shoshanas.tvmissilehud_v1.6.7.zip",
+      "hash": "sha256:8042db0dadf13b5494fdea689c3b96a724715480d610daabc5474be0d548e6b6"
+    },
+    {
       "type": "plugin",
       "fileName": "shoshanas.tvmissilehud_v1.6.6.zip",
       "downloadUrl": "https://github.com/NotAnomie/NOMNOM-shoshanas-tvmissilehud/releases/download/v1.6.6/shoshanas.tvmissilehud_v1.6.6.zip",
@@ -29,5 +38,5 @@
       "category": "Release"
     }
   ],
-  "downloadCount": 376
+  "downloadCount": 382
 }
