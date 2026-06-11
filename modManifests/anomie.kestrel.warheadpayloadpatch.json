@@ -33,7 +33,7 @@
         },
         {
           "id": "com.nikkorap.blueprinter",
-          "version": "1.8.19"
+          "version": "1.8.20"
         },
         {
           "id": "QoL",
@@ -283,5 +283,5 @@
       ]
     }
   ],
-  "downloadCount": 291
+  "downloadCount": 298
 }
