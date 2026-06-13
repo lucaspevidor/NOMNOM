@@ -1,0 +1,33 @@
+{
+  "id": "Pauel3312.PauelsRandomFixes",
+  "displayName": "PauelsRandomFixes",
+  "description": "Random fixes for Nuclear Option. All fixes are configurable and can be disabled separately at any time.",
+  "tags": [
+    "mod",
+    "QoL"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/pauel3312/PauelsRandomFixes"
+    }
+  ],
+  "authors": [
+    "pauel3312"
+  ],
+  "githubOwner": "pauel3312",
+  "githubRepoName": "PauelsRandomFixes",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "PRF.zip",
+      "version": "0.33.4.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/pauel3312/PauelsRandomFixes/releases/download/v0.33.4.0/PRF.zip",
+      "hash": "sha256:141f8733266f619096b85699271f673c1afc0404d30912d3c25817f2c9b22756"
+    }
+  ],
+  "downloadCount": 0
+}
