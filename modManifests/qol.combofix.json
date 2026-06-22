@@ -17,7 +17,7 @@
   ],
   "githubOwner": "SonPamungkas",
   "githubRepoName": "NOMNOM-qol-combofix",
-  "autoUpdateArtifacts": "False",
+  "autoUpdateArtifacts": "True",
   "artifacts": [
     {
       "fileName": "qol.combofix_v1.0.2.zip",
