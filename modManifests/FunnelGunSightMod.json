@@ -21,6 +21,24 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "FunnelGunSightMod.dll",
+      "version": "1.0.3",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/mosdef31/NO-FunnelGunSight/releases/download/v1.0.3/FunnelGunSightMod.dll",
+      "hash": "sha256:f8e2a4e15da3be8d2a08d68747ce38794d8b66484c1d88977f1f6d6b81f8906d"
+    },
+    {
+      "fileName": "FunnelGunSightMod.dll",
+      "version": "1.0.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/mosdef31/NO-FunnelGunSight/releases/download/v1.0.2/FunnelGunSightMod.dll",
+      "hash": "sha256:4a4ce7ed1a64625abb119d6d9842e21d120762e0c96948f71fb4b9da51dd12fa"
+    },
+    {
       "type": "plugin",
       "fileName": "FunnelGunSightMod.zip",
       "downloadUrl": "https://github.com/mosdef31/NO-FunnelGunSight/releases/download/v1.0.1/FunnelGunSightMod.dll",
@@ -30,5 +48,5 @@
       "hash": "sha256:4f8491978cc99c9bdd0c5be8a2e351613f8f0e34887c3954b852ef536ca00676"
     }
   ],
-  "downloadCount": 48
+  "downloadCount": 220
 }
